@@ -5,3 +5,5 @@ this repository contains my assignments
 [assignment 3](https://github.com/karlijnsturm/assignments/blob/master/Assignment_week_5.ipynb)
 [assignment 4](https://github.com/karlijnsturm/assignments/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/karlijnsturm/assignments/blob/master/assignment5.ipynb)
+[Final Python](https://github.com/karlijnsturm/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
